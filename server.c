@@ -1,5 +1,3 @@
-// server.c (Final, Corrected, and Warning-Free Version)
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
